@@ -1,4 +1,4 @@
-window.snake.more_menu = function(e) {
+window.snake.customMenuStuff(); = function(e) {
   e = e || 25;
   
   // micro
